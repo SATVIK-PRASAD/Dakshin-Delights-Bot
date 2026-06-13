@@ -1,0 +1,30 @@
+[
+    {
+        "order_id": 101,
+        "timestamp": "2026-06-13 17:25:57",
+        "items": {
+            "ghee onion dosa (2 pcs)": 1,
+            "idli (4 pcs)": 1,
+            "gud bud": 1
+        },
+        "total": 361.0
+    },
+    {
+        "order_id": 102,
+        "timestamp": "2026-06-13 19:46:22",
+        "items": {
+            "lemon rice": 1
+        },
+        "total": 74.0
+    },
+    {
+        "order_id": 103,
+        "timestamp": "2026-06-13 20:09:50",
+        "items": {
+            "ghee pudina dosa": 1,
+            "gulab jamun": 1,
+            "lemon rice": 1
+        },
+        "total": 246.0
+    }
+]
